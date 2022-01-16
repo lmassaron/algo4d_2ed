@@ -1,5 +1,5 @@
-# Chapter 5 Content
-This is the Chapter 5 content for Algorithms for Dummies, 2nd Edition.
+# Chapter 5 Content - Developing a Matrix Computation Class
+This is the Chapter 5 content for Algorithms for Dummies, 2nd Edition:
 
 *	Defining why you want to create your own class
 *	Putting the basic class together
