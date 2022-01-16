@@ -1,5 +1,5 @@
-# Chapter 3 Content
-This is the Chapter 3 content for Algorithms for Dummies, 2nd Edition.
+# Chapter 3 Content - Working with Google Colab
+This is the Chapter 3 content for Algorithms for Dummies, 2nd Edition:
 
 *	Considering what Google Colab provides
 *	Using Google Colab to perform common development tasks
